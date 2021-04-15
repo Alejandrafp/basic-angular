@@ -11,7 +11,7 @@ import { ListadoComponent } from './listado/listado.component';
     exports:[//solo lo que queremos mostrar
         ListadoComponent
     ],
-    imports:[//solo modulos se presentan en los imports
+    imports:[//solo  modulos se presentan en los imports
         CommonModule
     ]
 })
